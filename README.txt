@@ -1,4 +1,4 @@
-fx: a hex dumper that fills the terminal width. Source revision ed8121f.
+fx: a hex dumper that fills the terminal width.
 
 To build (needs Go 1.27.1 or newer; dependencies download
 automatically):
